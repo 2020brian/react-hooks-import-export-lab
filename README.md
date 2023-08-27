@@ -44,7 +44,7 @@ After you've exported them, import them in the following files:
 When importing, make sure to use the _relative path_ from the file you're
 currently in, to the file you're trying to import from. For example, if you are
 in the `src/components/About.js` file and want to import from the
-`src/data/user.js` file, the relative path is `../data/user` (go up one
+`src/data/user.js` file, the relative path is `react-hooks-import-export-lab/user` (go up one
 directory, into the `data` folder, and into the `user` file).
 
 ## Resources
